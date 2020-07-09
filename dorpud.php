@@ -100,7 +100,7 @@ echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
         sleep(10);
         }
         reff:
-        $data = '{"referral_code":"G-CVNN2Q5"}';
+        $data = '{"referral_code":"G-S52NDYW"}';
         $claim = request("/customer_referrals/v1/campaign/enrolment", $token, $data);
         $message = fetch_value($claim,'"message":"','"');
         if(strpos($claim, 'Promo kamu sudah bisa dipakai')){
