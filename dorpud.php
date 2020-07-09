@@ -40,8 +40,8 @@ else
 		echo "\e[91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 		echo "\e[96m[🚫]        \e[91mSCRIPT RAMZ TUTORIAL CHANNEL         \e[96m [🚫]\n";
 	        echo "\e[96m[🚫]           \e[91mKLIK ENTER SAJA BOS KU            \e[96m [🚫]\n";
-		echo "\e[96m[🚫]        \e[91mYOK BACA DOA DULU BOSKU AGAR BISA    \e[96m [🚫]\n";
-	        echo "\e[96m[🚫] \e[91mSELAMAT KELILING INDONESIA BOSKU WKWK.      \e[96m [🚫]\n";
+		echo "\e[96m[🚫]    \e[91mYOK BACA DOA DULU BOSKU AGAR BISA        \e[96m [🚫]\n";
+	        echo "\e[96m[🚫]  \e[91mSELAMAT KELILING INDONESIA BOSKU WKWK.     \e[96m [🚫]\n";
 		echo "\e[91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 goto login;
 }
